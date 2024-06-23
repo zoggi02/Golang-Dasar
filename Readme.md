@@ -40,8 +40,8 @@ Sebelum memulai, pastikan Anda telah menginstal Go di komputer Anda. Anda dapat 
 ## Menjalankan Program
 
 Untuk menjalankan program Go, gunakan perintah berikut:
-```sh
-go run main.go
+    ```sh
+    go run main.go
 
 Jika semuanya berjalan dengan baik, Anda akan melihat output seperti ini:
 ```sh
