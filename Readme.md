@@ -67,6 +67,4 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan k
 
 ## Lisensi
 
-- Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk informasi lebih lanjut.
-  ```sh
-  Semoga ini membantu! Jika ada bagian lain yang perlu diperbaiki atau ditambahkan, beri tahu saya.
+Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk informasi lebih lanjut. Semoga ini membantu! Jika ada bagian lain yang perlu diperbaiki atau ditambahkan, beri tahu saya.
