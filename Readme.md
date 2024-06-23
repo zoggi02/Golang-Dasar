@@ -42,17 +42,17 @@ Sebelum memulai, pastikan Anda telah menginstal Go di komputer Anda. Anda dapat 
    ```sh
    go run main.go
 
-Jika semuanya berjalan dengan baik, Anda akan melihat output seperti ini:
-```sh
-Hello, World!
+- Jika semuanya berjalan dengan baik, Anda akan melihat output seperti ini:
+  ```sh
+   Hello, World!
 
 ## Struktur Direktori
 
-Setelah mengikuti langkah-langkah di atas, struktur direktori proyek Anda akan terlihat seperti ini:
-```sh
-go-project-example/
-├── go.mod
-└── main.go
+- Setelah mengikuti langkah-langkah di atas, struktur direktori proyek Anda akan terlihat seperti ini:
+  ```sh
+  go-project-example/
+  ├── go.mod
+  └── main.go
 
 - `go.mod`: File ini berisi informasi tentang modul Go Anda.
 - `main.go`: File ini berisi kode sumber utama untuk program Anda.
@@ -67,7 +67,6 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan fork repositori ini dan k
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk informasi lebih lanjut.
-
-```sh
-Semoga ini membantu! Jika ada bagian lain yang perlu diperbaiki atau ditambahkan, beri tahu saya.
+- Proyek ini dilisensikan di bawah MIT License. Lihat file LICENSE untuk informasi lebih lanjut.
+  ```sh
+  Semoga ini membantu! Jika ada bagian lain yang perlu diperbaiki atau ditambahkan, beri tahu saya.
