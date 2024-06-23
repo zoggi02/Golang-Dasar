@@ -1,0 +1,26 @@
+# Ignore Go build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Ignore Go mod cache
+vendor/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore editor temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignore logs
+*.log
+
+# Ignore binaries
+bin/
